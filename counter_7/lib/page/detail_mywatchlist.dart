@@ -129,6 +129,7 @@ class WatchlistDetailPage extends StatelessWidget {
                   ))
             ],
           ),
-        ));
+        )
+        );
   }
 }

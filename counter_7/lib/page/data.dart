@@ -3,7 +3,6 @@ import 'package:counter_7/page/form.dart';
 import 'package:counter_7/drawer.dart';
 import 'package:counter_7/model/modeldata.dart';
 
-
 class MyDataPage extends StatefulWidget {
   const MyDataPage({super.key});
 
